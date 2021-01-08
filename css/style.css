@@ -296,6 +296,12 @@ h5,
   .site-section.site-section-sm {
     padding: 4em 0; }
 
+.sfixhigh {
+  height: 300px; }
+
+.sfixhighouter {
+  height: 320px; }
+
 .copyright {
   background: #dbf5df; }
 
