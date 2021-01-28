@@ -1074,7 +1074,16 @@ h5,
 .blog-section {
   background: #dbf5df; }
 
+.pricing_cardhigh {
+  height: 450px; }
+
 .agnes-textcolor {
   color: #317238; }
+
+.agnes-textcolorwhite {
+  color: #ffffff; }
+
+.agnes-textbackground {
+  background: #317238; }
 
 /*# sourceMappingURL=style.css.map */
