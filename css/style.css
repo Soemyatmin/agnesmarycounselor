@@ -297,10 +297,10 @@ h5,
     padding: 4em 0; }
 
 .sfixhigh {
-  height: 300px; }
+  height: 360px; }
 
 .sfixhighouter {
-  height: 320px; }
+  height: 380px; }
 
 .copyright {
   background: #dbf5df; }
@@ -1058,7 +1058,7 @@ h5,
   padding: 30px; }
   .client .name-photo img {
     border-radius: 50%;
-    width: 65px; }
+    width: 130px; }
   .client .name {
     line-height: 1; }
     .client .name h3 {
@@ -1082,6 +1082,9 @@ h5,
 
 .agnes-textcolorwhite {
   color: #ffffff; }
+
+.agnes-textbold {
+  font-weight: bold; }
 
 .agnes-textbackground {
   background: #317238; }
